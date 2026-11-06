@@ -1,30 +1,44 @@
-👋 Olá! Eu sou o Giovani
-💻 Desenvolvedor apaixonado por tecnologia
+<h1 align="center">👋 Olá! Eu sou o Giovani</h1>
+<h3 align="center">💻 Desenvolvedor Apaixonado por Tecnologia</h3>
 
-Sou um desenvolvedor apaixonado por tecnologia, com experiência em várias linguagens e ferramentas. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
+---
 
-🚀 Sobre Mim
-💻 Desenvolvedor Web
-🌱 Sempre aprendendo novas tecnologias
-🔧 Experiência com desenvolvimento de sistemas e CRUD
-📚 Interesse em programação, banco de dados e Linux
-🛠️ Habilidades
-HTML5
-CSS3
-JavaScript
-PHP
-Java
-MySQL
-Bootstrap
-Git
-Linux
-📊 Estatísticas do GitHub
+### ✨ Sobre Mim
+Sou um desenvolvedor dedicado, sempre em busca de novos desafios e oportunidades para aprender e crescer. Tenho interesse em criar soluções eficientes, explorar novas tecnologias e contribuir com projetos que fazem a diferença.
 
-!GitHub Stats
+- 💻 **Desenvolvedor Web**
+- 🌱 Sempre aprendendo e evoluindo
+- 🔧 Experiência com desenvolvimento de sistemas e CRUD
+- 📚 Foco em programação, banco de dados e ambiente Linux
 
-!Top Languages
+---
 
-🌐 Redes Sociais
-GitHub:https://github.com/giovanim/Giovani-development/
+### 🛠️ Habilidades & Ferramentas
 
-⭐ Obrigado pela visita ao meu perfil!
+| Categoria | Tecnologias |
+|---|---|
+| 🌐 Marcação & Estilo | HTML5 • CSS3 |
+| ⚡ Programação Web | JavaScript • PHP |
+| ☕ Backend | Java |
+| 🗄️ Banco de Dados | MySQL |
+| 🎨 Frameworks | Bootstrap |
+| ⚙️ Outras Ferramentas | Git • Linux |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giovanim&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanim&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
+</div>
+
+---
+
+### 🌐 Conecte-se Comigo
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giovanim)
+
+---
+
+<p align="center">⭐ Obrigado pela visita ao meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato.</p>
