@@ -1,19 +1,16 @@
 <h1 align="center">👋 Olá! Eu sou o Giovani</h1>
 <h3 align="center">💻 Desenvolvedor Apaixonado por Tecnologia</h3>
 
-<div align="center">
-  <img src="https://github.com/giovanim/giovanim/blob/main/jedi-pixel-fight.gif?raw=true" alt="Jedi Pixel Art Lutando" width="170" height="170" />
-</div>
 
----
 
 ### ✨ Sobre Mim
 Sou um desenvolvedor dedicado, sempre em busca de novos desafios e oportunidades para aprender e crescer. Tenho interesse em criar soluções eficientes, explorar novas tecnologias e contribuir com projetos que fazem a diferença.
 
 - 💻 **Desenvolvedor Web**
-- 🌱 Sempre aprendendo e evoluindo
-- 🔧 Experiência com desenvolvimento de sistemas e CRUD
-- 📚 Foco em programação, banco de dados e ambiente Linux
+  💻 Desenvolvedor Web 🌱
+      Sempre aprendendo, evoluindo e explorando novas tecnologias
+ ⚙️  Experiência no desenvolvimento de aplicações e soluções web
+ 📚  Foco em desenvolvimento de software, integração de sistemas, banco de dados e tecnologias open source
 
 ---
 
@@ -30,13 +27,10 @@ Sou um desenvolvedor dedicado, sempre em busca de novos desafios e oportunidades
 
 ---
 
-### 📊 Estatísticas do GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giovanim&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanim&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github.com/giovanim/giovanim/blob/main/jedi-developer-bug-fight.gif?raw=true" alt="Jedi Developer Lutando com Bugs" width="170" height="170" />
 </div>
+
 
 ---
 
