@@ -25,6 +25,6 @@ Linux
 !Top Languages
 
 🌐 Redes Sociais
-GitHub: https://github.com/SEU_USUARIO
+GitHub:https://github.com/giovanim/Giovani-development/
 
 ⭐ Obrigado pela visita ao meu perfil!
