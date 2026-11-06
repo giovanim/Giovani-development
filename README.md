@@ -1,6 +1,10 @@
 <h1 align="center">👋 Olá! Eu sou o Giovani</h1>
 <h3 align="center">💻 Desenvolvedor Apaixonado por Tecnologia</h3>
 
+<div align="center">
+  <img src="https://github.com/giovanim/giovanim/blob/main/jedi-lightsaber-fight.gif?raw=true" alt="Jedi Lutando com Sabre de Luz" width="600" />
+</div>
+
 ---
 
 ### ✨ Sobre Mim
