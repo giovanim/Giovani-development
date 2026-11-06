@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:09090B,50:312E81,100:06B6D4&text=Giovani&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descAlignY=60&animation=fadeIn" />
@@ -32,24 +31,21 @@ Desenvolvedor apaixonado por tecnologia, inovação e desenvolvimento de soluç�
 
 <div align="center">
 
-### FRONTEND
+### 🎨 FRONTEND
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
+### ⚙️ BACKEND & FRAMEWORKS
+<img src="https://skillicons.dev/icons?i=php,java,laravel&theme=dark" />
 
-### BACKEND & DATABASE
+### 🗄️ BANCO DE DADOS
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=php,java,mysql&theme=dark" />
-
-### TOOLS & ENVIRONMENT
-
+### 🛠️ FERRAMENTAS & AMBIENTE
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 
 </div>
 
 ---
-
-
-
 
 ## 🌐 Connect With Me
 
