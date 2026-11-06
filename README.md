@@ -2,7 +2,7 @@
 <h3 align="center">💻 Desenvolvedor Apaixonado por Tecnologia</h3>
 
 <div align="center">
-  <img src="https://github.com/giovanim/giovanim/blob/main/jedi-lightsaber-fight.gif?raw=true" alt="Jedi Lutando com Sabre de Luz" width="600" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Jedi Pixel Art" width="170" height="170" />
 </div>
 
 ---
